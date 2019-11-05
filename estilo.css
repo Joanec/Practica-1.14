@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+h1.titulo{
+    text-align: center;
+    
+}
+
+ p.izquierda {
+    float: left;
+    
+  }
+ p.centro {
+  text-align: center;
+  }
+  p.derecha {
+    float: right;
+  }
+  p.fotocafeteria{
+    text-align: center;
+  }
+  p.coffee{
+    text-align: center;
+    
+  }
+h1 {
+    text-align: center;
+    color:rgba(87, 11, 1, 0.849);
+}
+p{
+    color: rgba(211, 1, 1, 0.582);
+}
+  /*http://www.mclibre.org/consultar/htmlcss/css/css-posicionamiento-flotante.html*/
